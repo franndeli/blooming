@@ -12,7 +12,7 @@ Blooming is an innovative application designed to monitor the emotional well-bei
 
 ## 📋 Table of Contents
 
-- [🎯 Overview](#🎯-overview)
+- [🎯 Overview](#-overview)
 - [✨ Key Features](#✨-key-features)
 - [🏗️ System Architecture](#🏗️-system-architecture)
 - [🛠️ Technologies Used](#🛠️-technologies-used)
