@@ -13,18 +13,18 @@ Blooming is an innovative application designed to monitor the emotional well-bei
 ## 📋 Table of Contents
 
 - [🎯 Overview](#-overview)
-- [✨ Key Features](#✨-key-features)
-- [🏗️ System Architecture](#🏗️-system-architecture)
-- [🛠️ Technologies Used](#🛠️-technologies-used)
-- [📦 Installation](#📦-installation)
-- [⚙️ Configuration](#⚙️-configuration)
-- [🚀 Usage](#🚀-usage)
-- [📁 Project Structure](#📁-project-structure)
-- [📚 API Documentation](#📚-api-documentation)
-- [🎨 Frontend Features](#🎨-frontend-features)
-- [🤝 Contributing](#🤝-contributing)
-- [📄 License](#📄-license)
-- [📞 Contact](#📞-contact)
+- [✨ Key Features](#-key-features)
+- [🏗️ System Architecture](#-system-architecture)
+- [🛠️ Technologies Used](#-technologies-used)
+- [📦 Installation](#-installation)
+- [⚙️ Configuration](#-configuration)
+- [🚀 Usage](#-usage)
+- [📁 Project Structure](#-project-structure)
+- [📚 API Documentation](#-api-documentation)
+- [🎨 Frontend Features](#-frontend-features)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [📞 Contact](#-contact)
 
 ## 🎯 Overview
 
